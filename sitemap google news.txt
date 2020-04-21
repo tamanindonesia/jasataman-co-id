@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>https://www.jasataman.co.id/2020/04/perbaikan-taman-rumah.html</loc>
+        <news:news>
+            <news:publication>
+                <news:name>TUKANG TAMAN SURABAYA | JASA PEMBUATAN TAMAN SURABAYA</news:name>
+                <news:language>in</news:language>
+            </news:publication>
+            <news:publication_date>2020-04-14</news:publication_date>
+            <news:title>Perbaikan taman rumah jelang lebaran</news:title>
+            <news:Tukang Taman Surabaya, taman Surabaya, Desain Taman Surabaya, Jasa taman surabaya, tukang taman, Kontraktor Taman surabaya</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://www.jasataman.co.id/2020/04/ahli-taman-surabaya.html</loc>
+        <news:news>
+            <news:publication>
+                <news:name>TUKANG TAMAN SURABAYA | JASA PEMBUATAN TAMAN SURABAYA</news:name>
+                <news:language>in</news:language>
+            </news:publication>
+            <news:publication_date>2020-04-06</news:publication_date>
+            <news:title>Ahli taman pakar taman dan tukang taman apa bedanya</news:title>
+            <news:keywords>Tukang Taman Surabaya, taman Surabaya, Desain Taman Surabaya, Jasa taman surabaya, tukang taman, Kontraktor Taman surabaya</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://www.jasataman.co.id/2020/04/taman-minimalis-klasik-belakang-rumah.html</loc>
+        <news:news>
+            <news:publication>
+                <news:name>TUKANG TAMAN SURABAYA | JASA PEMBUATAN TAMAN SURABAYA</news:name>
+                <news:language>in</news:language>
+            </news:publication>
+            <news:publication_date>2020-04-01</news:publication_date>
+            <news:title>Taman minimalis klasik belakang rumah</news:title>
+            <news:keywords>Tukang Taman Surabaya, taman Surabaya, Desain Taman Surabaya, Jasa taman surabaya, tukang taman, Kontraktor Taman surabaya</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://www.youtube.com/watch?v=eVpT08sikig</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Taman rumah pakuwon surabaya</news:name>
+                <news:language>in</news:language>
+            </news:publication>
+            <news:publication_date>2020-04-14</news:publication_date>
+            <news:title>Jasa tukang taman surabaya Edisi taman vertikal</news:title>
+            <news:Tukang Taman Surabaya, taman Surabaya, Desain Taman Surabaya, Jasa taman surabaya, tukang taman, Kontraktor Taman surabaya</news:keywords>
+        </news:news>
+    </url>
+</urlset>
+
+User-agent: *
+User-agent: Googlebot-News
+....
+Sitemap: https://www.jasataman.co.id/google-news-sitemap.xml
